@@ -1,8 +1,18 @@
 # FullStack Note App
 
-**Full-stack Note-Taking Application** — React · Django · PostgreSQL
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge)
+
+Full-stack Note-Taking Application — **React · Django · PostgreSQL**
 
 > A simple note-taking app with user authentication and full CRUD functionality for managing personal notes.
+
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
